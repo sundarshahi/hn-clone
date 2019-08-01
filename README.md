@@ -1,4 +1,4 @@
 # hn-clone
--Learned React Router
--Axios
+- Learned React Router
+- Axios
 -
